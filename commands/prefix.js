@@ -1,4 +1,4 @@
-const prefixSchema = require('../../models/prefix')
+const prefixSchema = require('../models/prefix')
 const { Message } = require('discord.js')
 module.exports = {
     name : 'prefix',
